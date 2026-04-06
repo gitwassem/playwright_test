@@ -1,0 +1,10 @@
+[    8011ms] [WARNING] [Vuetify] [UPGRADE] 'v-content' is deprecated, use 'v-main' instead.
+
+found in
+
+---> <VMain>
+       <PagesCoreView>
+         <PagesIndex>
+           <VApp>
+             <App>
+               <Root> @ https://uat.trellisplatform.com/issuers/js/chunk-vendors.f5d6fe0c.js:157

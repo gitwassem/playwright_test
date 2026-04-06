@@ -1,0 +1,30 @@
+[     747ms] [WARNING] [Vuetify] [UPGRADE] 'v-content' is deprecated, use 'v-main' instead.
+
+found in
+
+---> <VMain>
+       <PagesCoreView>
+         <PagesIndex>
+           <VApp>
+             <App>
+               <Root> @ https://uat.trellisplatform.com/issuers/js/chunk-vendors.f5d6fe0c.js:157
+[   18834ms] [WARNING] [Vuetify] [UPGRADE] 'mobile-break-point' is deprecated, use 'mobile-breakpoint' instead.
+
+found in
+
+---> <VNavigationDrawer>
+       <DashboardCoreDrawer>
+         <DashboardIndex>
+           <VApp>
+             <App>
+               <Root> @ https://uat.trellisplatform.com/issuers/js/chunk-vendors.f5d6fe0c.js:157
+[   18897ms] [WARNING] [Vuetify] [UPGRADE] 'v-content' is deprecated, use 'v-main' instead.
+
+found in
+
+---> <VMain>
+       <DashboardCoreView>
+         <DashboardIndex>
+           <VApp>
+             <App>
+               <Root> @ https://uat.trellisplatform.com/issuers/js/chunk-vendors.f5d6fe0c.js:157
